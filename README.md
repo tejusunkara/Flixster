@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 The following **stretch** features are implemented:
 
-* [X] Display a nice default progress bar for each image during loading
+* [X] Display a default progress bar for each image during loading
 
 ## Video Walkthrough
 
@@ -27,7 +27,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was challenging to add a progress bar for when each image is loading. I eventually resolved it by understanding what an adapter does and how it relates to how the app layout is shown.
 
 ## Open-source libraries used
 
