@@ -21,7 +21,8 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough- Portrait' width='' alt='Video Walkthrough' />
+<img src='walthrough_land.gif' title='Video Walkthrough- Landscape' width='' alt='Video Walkthrough- Landscape' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
