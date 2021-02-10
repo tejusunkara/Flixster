@@ -9,8 +9,6 @@
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
 <img src="walkthrough_land_pt2.gif" title='Video Walkthrough- Youtube Player View' width='' alt='Video Walkthrough' />
 
 ## Open-source libraries used
